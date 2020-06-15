@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.story.tl	TRUE	/	FALSE	1999999999	__cfduid	d9b8c3dad668faccb85763357ca14003a1591735591
+story.tl	TRUE	/	FALSE	1999999999	SameSite	Lax
+
